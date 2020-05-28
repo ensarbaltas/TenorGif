@@ -1,0 +1,10 @@
+#body {
+    background-color: rgb(201, 217, 231);
+    padding: 10px 10px 10px 10px;
+  }
+  
+  img {
+    height: 220px;
+    width: 220px;
+    padding: 5px;
+  }
